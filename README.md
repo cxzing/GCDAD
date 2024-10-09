@@ -1,4 +1,5 @@
 # GRU-Contrast-Discrepancy-based-Anomaly-Detection
+##Requirements
 The recommended requirements for LTFAD are specified as follows:
 - `arch==6.1.0`
 - `einops==0.6.1`
@@ -17,3 +18,6 @@ The dependencies can be installed by running the following command:
 
 ```bash
 pip install -r requirements.txt
+
+
+
