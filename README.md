@@ -27,5 +27,21 @@ The datasets can be obtained and placed into the `datasets/` folder as follows:
 - Our model supports anomaly detection for both univariate and multivariate time series datasets.
 - We provide the MSL and PSM dataset.You can obtain the dataset from the following link:<https://drive.google.com/drive/folders/1DDee8zg0dwfXWqkruppOW_AnjQrjfy5g?usp=drive_link> If you want to use your own dataset, please place your dataset files in the `/dataset/<dataset>/` folder, following the format `<dataset>_train.npy`, `<dataset>_test.npy`, and `<dataset>_test_label.npy`.
 
+## Code Description
+
+There are six files/folders in the source:
+
+- **data_factory**: The preprocessing folder/file. All datasets preprocessing codes are here.
+  
+- **main.py**: The main python file. You can adjust all parameters in there.
+  
+- **metrics**: There is the evaluation metrics code folder.
+  
+- **model**: GCDAD model folder.
+  
+- **solver.py**: The training and testing processing are all in there.
+  
+- **requirements.txt**: Python packages needed to run this repo.
+
 
 
