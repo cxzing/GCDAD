@@ -46,13 +46,13 @@ There are six files/folders in the source:
 
 ## Usage
 
-### Install
+1.Install
 - Python 3.9
 - PyTorch >= 1.4.0
 
-### Download the datasets
+2.Download the datasets
 
-### Train and Evaluate GCDAD on a Dataset
+3.Train and Evaluate GCDAD on a Dataset
 To train and evaluate GCDAD on a dataset, run the following command:
 
 ```bash
