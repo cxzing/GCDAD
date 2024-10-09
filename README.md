@@ -44,4 +44,19 @@ There are six files/folders in the source:
 - **requirements.txt**: Python packages needed to run this repo.
 
 
+## Usage
+
+### Install
+- Python 3.9
+- PyTorch >= 1.4.0
+
+### Download the datasets
+
+### Train and Evaluate GCDAD on a Dataset
+To train and evaluate GCDAD on a dataset, run the following command:
+
+```bash
+python main.py
+```
+
 
