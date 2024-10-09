@@ -1,5 +1,5 @@
 # GRU-Contrast-Discrepancy-based-Anomaly-Detection
-##Requirements
+## Requirements
 The recommended requirements for LTFAD are specified as follows:
 - `arch==6.1.0`
 - `einops==0.6.1`
