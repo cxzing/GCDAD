@@ -18,6 +18,7 @@ The dependencies can be installed by running the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Data
 
