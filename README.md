@@ -1,4 +1,4 @@
-# GRU-Contrast-Discrepancy-based-Anomaly-Detection
+# GCDAD
 ## Requirements
 The recommended requirements for GCDAD are specified as follows:
 - `arch==6.1.0`
